@@ -1,4 +1,4 @@
-![Badges]([https://img.shields.io/github/repo-size/macsnoeren/python-p2p-network](https://img.shields.io/github/repo-size/ascender1729/maze-runner-onchain?style=plastic))
+![GitHub repo size](https://img.shields.io/github/repo-size/ascender1729/maze-runner-onchain?style=plastic)
 
 # On-Chain Maze Runner
 
